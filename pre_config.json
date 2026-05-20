@@ -5,12 +5,40 @@
     },
     "servers": {
         "1446962100219019440": {
-            "title": "I scam everyone",
-            "content": "I love scamming"
+            "variants": [
+                {
+                    "title": "Special Announcement",
+                    "content": "Welcome to AJ Premium Proxy! Enjoy our high-speed proxies."
+                },
+                {
+                    "title": "Server Update",
+                    "content": "New features added. Check the announcements channel!"
+                },
+                {
+                    "title": "Reminder",
+                    "content": "Please read the rules. Thank you for being with us."
+                }
+            ]
         },
         "1443182449860280473": {
-            "title": "Fuck you monkey",
-            "content": "I scam this server 1443182449860280473"
+            "variants": [
+                {
+                    "title": "Special Announcement",
+                    "content": "Welcome to AJ Premium Proxy! Enjoy our high-speed proxies."
+                },
+                {
+                    "title": "Server Update",
+                    "content": "New features added. Check the announcements channel!"
+                },
+                {
+                    "title": "Reminder",
+                    "content": "Please read the rules. Thank you for being with us."
+                }
+            ]
+        },
+        "1506618841655021598": {
+           "title": "Kebab 123",
+            "content": "This is a test post for Kebab 123 server."
         }
     }
 }
